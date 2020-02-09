@@ -1,0 +1,14 @@
+h2{
+  text-decoration: underline !important;
+}
+
+[type="text"]{
+  font-size: 20px !important;
+}
+
+
+[type="button"]{
+  color:#DAA520;
+  font-size: 25px;
+  background-color: #ECF0F1;
+}
